@@ -6,10 +6,19 @@
     <description>Recent content in Posts on testing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2017 21:20:59 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Apr 2018 22:31:39 +0000</lastBuildDate>
     
 	<atom:link href="https://hugo.mini.hywong.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>https://hugo.mini.hywong.com/posts/test/</link>
+      <pubDate>Sat, 14 Apr 2018 22:31:39 +0000</pubDate>
+      
+      <guid>https://hugo.mini.hywong.com/posts/test/</guid>
+      <description>fsdfsfsdf</description>
+    </item>
     
     <item>
       <title>First Post</title>
